@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>D:\elmo\Documents\Git\keyboard_design\ISO\pcb_328p\iso.sch</source>
-    <date>22.09.2021 12:52:49</date>
+    <source>D:\elmo\Documents\Git\keyboard_design\ISO\pcb\iso.sch</source>
+    <date>22.09.2021 23:48:09</date>
     <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -21,10 +21,10 @@
   <components>
     <comp ref="C1">
       <value>10uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C91245</field>
+        <field name="LCSC">C19702</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -43,10 +43,10 @@
     </comp>
     <comp ref="C7">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C1804</field>
+        <field name="LCSC">C1653</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,10 +54,10 @@
     </comp>
     <comp ref="C8">
       <value>22pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C1804</field>
+        <field name="LCSC">C1653</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -87,10 +87,10 @@
     </comp>
     <comp ref="R1">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C27834</field>
+        <field name="LCSC">C23186</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -98,10 +98,10 @@
     </comp>
     <comp ref="R2">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C27834</field>
+        <field name="LCSC">C23186</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -128,10 +128,10 @@
     </comp>
     <comp ref="R4">
       <value>68R</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C17802</field>
+        <field name="LCSC">C27592</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -139,10 +139,10 @@
     </comp>
     <comp ref="R5">
       <value>68R</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C17802</field>
+        <field name="LCSC">C27592</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -150,10 +150,10 @@
     </comp>
     <comp ref="D2">
       <value>D_Zener_Small</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C173412</field>
+        <field name="LCSC">C401091</field>
       </fields>
       <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -161,10 +161,10 @@
     </comp>
     <comp ref="D1">
       <value>D_Zener_Small</value>
-      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C173412</field>
+        <field name="LCSC">C401091</field>
       </fields>
       <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -172,10 +172,10 @@
     </comp>
     <comp ref="R3">
       <value>1.5K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LCSC">C4310</field>
+        <field name="LCSC">C22843</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -189,24 +189,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FE97FB5</tstamp>
     </comp>
-    <comp ref="MX1">
-      <value>MX-LED</value>
-      <footprint>MX_Only:MXOnly-ISO-ReversedStabilizers</footprint>
-      <libsource lib="MX_Alps_Hybrid" part="MX-LED" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>615021F8</tstamp>
-    </comp>
-    <comp ref="R7">
-      <value>1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LCSC">C17513</field>
-      </fields>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>61506847</tstamp>
-    </comp>
     <comp ref="U2">
       <value>SRV05-4</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
@@ -217,6 +199,37 @@
       <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6134AF5C</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>SK6812MINI</value>
+      <footprint>custom_parts:SK6812MINIE-simple</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614BBA26</tstamp>
+    </comp>
+    <comp ref="MX1">
+      <value>MX-NoLED</value>
+      <footprint>custom_parts:MXOnly-ISO-ROTATEDCCW-ReversedStabilizers-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614BF2DA</tstamp>
+    </comp>
+    <comp ref="LED2">
+      <value>SK6812MINI</value>
+      <footprint>custom_parts:SK6812MINIE-simple</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61500DC0</tstamp>
+    </comp>
+    <comp ref="LED3">
+      <value>SK6812MINI</value>
+      <footprint>custom_parts:SK6812MINIE-simple</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</datasheet>
+      <libsource lib="LED" part="SK6812MINI" description="RGB LED with integrated controller"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61501412</tstamp>
     </comp>
   </components>
   <libparts>
@@ -350,6 +363,24 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="LED" part="SK6812MINI">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf</docs>
+      <footprints>
+        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812MINI</field>
+        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
     <libpart lib="MCU_Microchip_ATmega" part="ATmega48PV-10AU">
       <aliases>
         <alias>ATmega48P-20AU</alias>
@@ -411,16 +442,14 @@
         <pin num="32" name="PD2" type="BiDi"/>
       </pins>
     </libpart>
-    <libpart lib="MX_Alps_Hybrid" part="MX-LED">
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
       <fields>
         <field name="Reference">MX</field>
-        <field name="Value">MX-LED</field>
+        <field name="Value">MX-NoLED</field>
       </fields>
       <pins>
         <pin num="1" name="COL" type="passive"/>
         <pin num="2" name="ROW" type="passive"/>
-        <pin num="3" name="LED" type="input"/>
-        <pin num="4" name="LEDGND" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Power_Protection" part="SRV05-4">
@@ -466,11 +495,14 @@
     <library logical="Device">
       <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\share\kicad\library/LED.lib</uri>
+    </library>
     <library logical="MCU_Microchip_ATmega">
       <uri>C:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATmega.lib</uri>
     </library>
     <library logical="MX_Alps_Hybrid">
-      <uri>D:\elmo\Documents\Git\keyboard_design\ISO\pcb_328p/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib</uri>
+      <uri>D:\elmo\Documents\Git\keyboard_design\ISO\pcb/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib</uri>
     </library>
     <library logical="Power_Protection">
       <uri>C:\Program Files\KiCad\share\kicad\library/Power_Protection.lib</uri>
@@ -480,176 +512,188 @@
     </library>
   </libraries>
   <nets>
-    <net code="1" name="SCK">
-      <node ref="U1" pin="17"/>
-      <node ref="J1" pin="4"/>
-    </net>
-    <net code="2" name="Net-(R2-Pad2)">
-      <node ref="USB1" pin="B5"/>
-      <node ref="R2" pin="2"/>
-    </net>
-    <net code="3" name="GND">
-      <node ref="USB1" pin="S1"/>
-      <node ref="USB1" pin="B12"/>
-      <node ref="USB1" pin="B1"/>
-      <node ref="USB1" pin="A12"/>
-      <node ref="USB1" pin="A1"/>
-      <node ref="U2" pin="2"/>
-      <node ref="R7" pin="1"/>
-      <node ref="U1" pin="5"/>
-      <node ref="R2" pin="1"/>
-      <node ref="R1" pin="1"/>
-      <node ref="U1" pin="21"/>
-      <node ref="U1" pin="3"/>
-      <node ref="C8" pin="2"/>
+    <net code="1" name="GND">
       <node ref="C7" pin="2"/>
       <node ref="X1" pin="4"/>
       <node ref="X1" pin="2"/>
+      <node ref="LED1" pin="2"/>
       <node ref="C1" pin="2"/>
-      <node ref="J1" pin="1"/>
-      <node ref="D1" pin="2"/>
+      <node ref="MX1" pin="2"/>
       <node ref="BOOT1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="5"/>
+      <node ref="USB1" pin="A12"/>
+      <node ref="LED3" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="LED2" pin="2"/>
+      <node ref="USB1" pin="B12"/>
+      <node ref="USB1" pin="B1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="USB1" pin="A1"/>
+      <node ref="U1" pin="21"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="1"/>
       <node ref="D2" pin="2"/>
+      <node ref="USB1" pin="S1"/>
+      <node ref="R2" pin="1"/>
     </net>
-    <net code="4" name="MOSI">
+    <net code="2" name="MOSI">
       <node ref="U1" pin="15"/>
       <node ref="J1" pin="2"/>
     </net>
-    <net code="5" name="MISO">
+    <net code="3" name="MISO">
       <node ref="J1" pin="3"/>
       <node ref="U1" pin="16"/>
     </net>
-    <net code="6" name="Net-(R1-Pad2)">
-      <node ref="R1" pin="2"/>
-      <node ref="USB1" pin="A5"/>
+    <net code="4" name="SCK">
+      <node ref="J1" pin="4"/>
+      <node ref="U1" pin="17"/>
     </net>
-    <net code="7" name="RESET">
-      <node ref="J1" pin="5"/>
+    <net code="5" name="RESET">
       <node ref="U1" pin="29"/>
+      <node ref="J1" pin="5"/>
     </net>
-    <net code="8" name="+5V">
-      <node ref="U1" pin="4"/>
-      <node ref="J1" pin="6"/>
+    <net code="6" name="+5V">
+      <node ref="C1" pin="1"/>
+      <node ref="F1" pin="1"/>
       <node ref="U1" pin="6"/>
       <node ref="U1" pin="18"/>
-      <node ref="F1" pin="1"/>
+      <node ref="J1" pin="6"/>
       <node ref="R3" pin="2"/>
-      <node ref="C1" pin="1"/>
+      <node ref="LED1" pin="4"/>
+      <node ref="LED2" pin="4"/>
+      <node ref="U1" pin="4"/>
+      <node ref="LED3" pin="4"/>
     </net>
-    <net code="9" name="BOOT">
-      <node ref="U1" pin="2"/>
-      <node ref="BOOT1" pin="2"/>
+    <net code="7" name="Net-(R1-Pad2)">
+      <node ref="USB1" pin="A5"/>
+      <node ref="R1" pin="2"/>
     </net>
-    <net code="10" name="Net-(MX1-Pad4)">
-      <node ref="MX1" pin="4"/>
-      <node ref="R7" pin="2"/>
+    <net code="8" name="Net-(R2-Pad2)">
+      <node ref="USB1" pin="B5"/>
+      <node ref="R2" pin="2"/>
     </net>
-    <net code="11" name="VCC">
-      <node ref="USB1" pin="A9"/>
-      <node ref="USB1" pin="B4"/>
+    <net code="9" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1"/>
+      <node ref="LED3" pin="3"/>
+    </net>
+    <net code="10" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1"/>
+      <node ref="LED2" pin="3"/>
+    </net>
+    <net code="11" name="LED">
+      <node ref="U1" pin="14"/>
+      <node ref="LED1" pin="3"/>
+    </net>
+    <net code="12" name="SW">
+      <node ref="MX1" pin="1"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="13" name="Net-(LED3-Pad1)">
+      <node ref="LED3" pin="1"/>
+    </net>
+    <net code="14" name="VCC">
       <node ref="U2" pin="5"/>
+      <node ref="USB1" pin="A4"/>
       <node ref="F1" pin="2"/>
       <node ref="USB1" pin="B9"/>
-      <node ref="USB1" pin="A4"/>
+      <node ref="USB1" pin="B4"/>
+      <node ref="USB1" pin="A9"/>
     </net>
-    <net code="12" name="Net-(U2-Pad1)">
-      <node ref="U2" pin="1"/>
+    <net code="15" name="Net-(U2-Pad3)">
+      <node ref="U2" pin="3"/>
     </net>
-    <net code="13" name="Net-(U2-Pad4)">
-      <node ref="U2" pin="4"/>
+    <net code="16" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
     </net>
-    <net code="14" name="Net-(USB1-PadA8)">
+    <net code="17" name="Net-(USB1-PadA8)">
       <node ref="USB1" pin="A8"/>
     </net>
-    <net code="15" name="Net-(D2-Pad1)">
-      <node ref="U2" pin="6"/>
-      <node ref="USB1" pin="B6"/>
-      <node ref="USB1" pin="A6"/>
+    <net code="18" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1"/>
       <node ref="R5" pin="2"/>
+      <node ref="USB1" pin="A6"/>
+      <node ref="U2" pin="1"/>
+      <node ref="USB1" pin="B6"/>
     </net>
-    <net code="16" name="Net-(D1-Pad1)">
-      <node ref="R3" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="R4" pin="2"/>
-      <node ref="U2" pin="3"/>
-      <node ref="USB1" pin="B7"/>
+    <net code="19" name="Net-(D1-Pad1)">
       <node ref="USB1" pin="A7"/>
+      <node ref="R3" pin="1"/>
+      <node ref="USB1" pin="B7"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R4" pin="2"/>
+      <node ref="D1" pin="1"/>
     </net>
-    <net code="17" name="Net-(USB1-PadB8)">
+    <net code="20" name="Net-(USB1-PadB8)">
       <node ref="USB1" pin="B8"/>
     </net>
-    <net code="18" name="Net-(C7-Pad1)">
+    <net code="21" name="Net-(C7-Pad1)">
+      <node ref="X1" pin="1"/>
       <node ref="U1" pin="8"/>
       <node ref="C7" pin="1"/>
-      <node ref="X1" pin="1"/>
     </net>
-    <net code="19" name="Net-(C8-Pad1)">
-      <node ref="X1" pin="3"/>
+    <net code="22" name="Net-(C8-Pad1)">
       <node ref="C8" pin="1"/>
+      <node ref="X1" pin="3"/>
       <node ref="U1" pin="7"/>
     </net>
-    <net code="20" name="Net-(U1-Pad22)">
-      <node ref="U1" pin="22"/>
-    </net>
-    <net code="21" name="Net-(U1-Pad23)">
-      <node ref="U1" pin="23"/>
-    </net>
-    <net code="22" name="Net-(U1-Pad24)">
-      <node ref="U1" pin="24"/>
-    </net>
-    <net code="23" name="Net-(U1-Pad25)">
-      <node ref="U1" pin="25"/>
-    </net>
-    <net code="24" name="Net-(U1-Pad26)">
-      <node ref="U1" pin="26"/>
-    </net>
-    <net code="25" name="Net-(U1-Pad27)">
-      <node ref="U1" pin="27"/>
-    </net>
-    <net code="26" name="Net-(U1-Pad28)">
+    <net code="23" name="Net-(U1-Pad28)">
       <node ref="U1" pin="28"/>
     </net>
-    <net code="27" name="Net-(U1-Pad30)">
+    <net code="24" name="Net-(U1-Pad30)">
       <node ref="U1" pin="30"/>
     </net>
-    <net code="28" name="Net-(U1-Pad31)">
+    <net code="25" name="Net-(U1-Pad31)">
       <node ref="U1" pin="31"/>
     </net>
-    <net code="29" name="D+">
+    <net code="26" name="D+">
       <node ref="U1" pin="32"/>
       <node ref="R5" pin="1"/>
     </net>
-    <net code="30" name="SW2">
-      <node ref="MX1" pin="1"/>
+    <net code="27" name="Net-(U1-Pad9)">
       <node ref="U1" pin="9"/>
     </net>
-    <net code="31" name="D-">
-      <node ref="R4" pin="1"/>
-      <node ref="U1" pin="1"/>
+    <net code="28" name="Net-(U1-Pad27)">
+      <node ref="U1" pin="27"/>
     </net>
-    <net code="32" name="SW1">
-      <node ref="MX1" pin="2"/>
-      <node ref="U1" pin="10"/>
+    <net code="29" name="BOOT">
+      <node ref="U1" pin="2"/>
+      <node ref="BOOT1" pin="2"/>
     </net>
-    <net code="33" name="LED">
-      <node ref="MX1" pin="3"/>
-      <node ref="U1" pin="11"/>
-    </net>
-    <net code="34" name="col2">
-      <node ref="U1" pin="12"/>
-    </net>
-    <net code="35" name="Net-(U1-Pad13)">
+    <net code="30" name="Net-(U1-Pad13)">
       <node ref="U1" pin="13"/>
     </net>
-    <net code="36" name="Net-(U1-Pad14)">
-      <node ref="U1" pin="14"/>
+    <net code="31" name="D-">
+      <node ref="U1" pin="1"/>
+      <node ref="R4" pin="1"/>
     </net>
-    <net code="37" name="Net-(U1-Pad19)">
+    <net code="32" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="33" name="Net-(U1-Pad11)">
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad19)">
       <node ref="U1" pin="19"/>
     </net>
-    <net code="38" name="Net-(U1-Pad20)">
+    <net code="35" name="Net-(U1-Pad20)">
       <node ref="U1" pin="20"/>
+    </net>
+    <net code="36" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="38" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="39" name="Net-(U1-Pad25)">
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="40" name="Net-(U1-Pad26)">
+      <node ref="U1" pin="26"/>
     </net>
   </nets>
 </export>
