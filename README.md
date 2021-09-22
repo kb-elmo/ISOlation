@@ -4,7 +4,9 @@
 
 ### A seamless ISO single-key "macropad"
 
-<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>
+<!--<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>-->
+
+#### This is not tested yet! Use with caution!
 
 ---
 
