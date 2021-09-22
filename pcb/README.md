@@ -5,6 +5,7 @@
 - Powered by an Atmega328p
 - Basic ESD and overvoltage protection
 - Centered USB type-C port for a detachable cable
+- Screw-in stabilizer support
 - Fully programmable using [QMK](https://qmk.fm) and [Vial](https://get.vial.today)
 
 ---
