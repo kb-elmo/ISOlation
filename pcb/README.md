@@ -11,5 +11,4 @@
 
 ### Preview
 
-<img src="pcb_back.png" alt="pcb_back" width="800"/>
-<img src="pcb_front.png" alt="pcb_front" width="800"/>
+<img src="pcb_back.png" alt="pcb_back" width="300"/><img src="pcb_front.png" alt="pcb_front" width="300"/>
