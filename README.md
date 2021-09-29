@@ -5,7 +5,7 @@
 ### A seamless ISO single-key "macropad"
 #### Stupid things I come up with during Covid isolation...
 
-<!--<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>-->
+<img src="https://i.imgur.com/s3BlIHz.jpg" alt="header" width="800"/>
 
 # This is not tested yet! Use with caution!
 
