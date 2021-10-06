@@ -1,6 +1,6 @@
 # ISOlation
 
-![isolation](https://i.imgur.com/Pe1tWzJl.jpg)
+![isolation](https://i.imgur.com/8twVgxPl.jpg)
 
 A seamless ISO single-key "macropad"
 
